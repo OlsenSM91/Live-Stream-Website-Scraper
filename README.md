@@ -297,4 +297,6 @@ The request observables will pull in something like:
 ```
 
 Example CURL:
+```bash
 curl -H "Referer: https://embedsports.top/" -H "Origin: https://embedsports.top/" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" https://zd.strmd.top/secure/pMgSaYLMuKeJfpiVtFSUbdMIjDTXfEwV/alpha/stream/san-diego-state-vs-washington-state/2/playlist.m3u8
+```
